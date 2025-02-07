@@ -113,10 +113,10 @@
 //int n = int.Parse(Console.ReadLine());
 //for (int i = 1; i < n; i++)
 //{
-//    int tam = n / i;   // Tam hissəni tapırıq
-//    int qaliq = n % i; // Doğru qalıq hesablaması
+//    int tam = n / i;   
+//    int qaliq = n % i; 
 
-//    if (tam == qaliq)  // Əgər tam və qalıq eynidirsə, uyğun m tapılıb
+//    if (tam == qaliq)  
 //    {
 //        Console.WriteLine($"m - {i}");
 //    }
@@ -135,7 +135,7 @@
 //{
 //    mass[i] = int.Parse(Console.ReadLine());
 //}
-//// Hər bir ədəd üçün son rəqəmlərin eyni olub-olmadığını yoxlayaq
+
 //for (int i = 0; i < mass.Length; i++)
 //{
 //    int firstnum = mass[i]; 
